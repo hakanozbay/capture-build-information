@@ -1,0 +1,4 @@
+revision : ${buildNumber}
+branch : ${scmBranch}
+build timestamp : ${timestamp}
+built by : ${user.name}
