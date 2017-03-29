@@ -1,4 +1,4 @@
-# capture-build-information
+# Capture build information
 
 This is an example demonstration of capturing information of the source code repository, system properties and environment variables into a text file during the build and packaging of your project. This example uses [Maven][] and the associated plugins [buildnumber-maven-plugin][] and [maven-assembly-plugin][].
 
